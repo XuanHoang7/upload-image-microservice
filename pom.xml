@@ -61,6 +61,11 @@
 			<artifactId>flyway-core</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>com.xuanhoang.microservices</groupId>
+			<artifactId>base-domains</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-mysql</artifactId>
 		</dependency>
